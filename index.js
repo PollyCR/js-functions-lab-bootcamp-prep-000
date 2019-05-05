@@ -5,6 +5,6 @@ function happyHolidays () {
 function happyHolidaysTo($name) {
   return('Happy holidays, `$name`!')
 }
-function happyHolidayTo('Independence Day', 'Isabel') {
-  return('Happy holidays, you!')
+function happyHolidayTo($holiday, $name) {
+  return('Independence Day', 'Isabel')
 }
